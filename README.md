@@ -89,8 +89,8 @@ Pada tahap ini akan melakukan import files, mengecek shapes dan data types pada 
 # **4. Data Analysis**
 ## **4.1 Exploratory Data Analysis (Delivered Orders)**
 ## **4.2 Customer Retention**
-## **4.2 Customer Satisfaction**
-## **4.5 Customer Segmentation**
+## **4.3 Customer Satisfaction**
+## **4.4 Customer Segmentation**
 # **5. Recommmendation**
 ### **Tim Growth & Marketing**
 
