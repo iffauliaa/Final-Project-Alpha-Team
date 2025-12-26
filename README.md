@@ -44,7 +44,7 @@ Beberapa hal yang dapat menjadi tolak ukur keberhasilan peningkatan Olist antara
 3. Mengidentifikasi segmentasi pelanggan agar dapat digunakan menentukan strategi marketing yang tepat dan relevan.
 
 ## **1.4 Stakeholders**
-### 1. Tim Growth dan Marketing
+### Tim Growth dan Marketing
 Menggunakan segmen RFM untuk:
 * Menentukan segmen yang layak mendapatkan
 promo, loyalty program, atau campaign winback.
@@ -54,7 +54,7 @@ promo, loyalty program, atau campaign winback.
   * Memantau KPI seperti repeat purchase rate dan kontribusi revenue per segmen.
 * Output yang dipakai: daftar segmen pelanggan dan karakteristik tiap segmen, metrik agregat per segmen (jumlah pelanggan, revenue, contribution, repeat rate).
 
-### 2. Tim Product dan Customer Experience
+### Tim Product dan Customer Experience
 * Menggunakan CSAT untuk menganalisa score kepuasan pelanggan agar dapat mengidentifikasi hambatan dan memaksimalkan pengalaman pengguna
 * Menggunakan segmentasi RFM untuk:
   * Memahami pola perilaku pelanggan high-value vs low-value di dalam produk (journey, friction point).
