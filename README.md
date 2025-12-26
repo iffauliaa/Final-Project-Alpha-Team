@@ -86,7 +86,7 @@ Pada tahap ini akan melakukan import files, mengecek shapes dan data types pada 
 * **category_translation**: product_category_name_translation.csv
 # **3. Data Preparation**
 # **4. Data Analysis**
-## **5. Recommmendation**
+# **5. Recommmendation**
 ### **Tim Growth & Marketing**
 
 
@@ -112,6 +112,8 @@ ketentuan berlaku (seperti salah ukuran, barang tidak sesuai dengan etalase, bar
 * Melakukan analisis lanjutan dengan tim Customer Service untuk memvalidasi review customer dengan ticket keluhan
 * Identifikasi permasalahan utama di dalam proses pengiriman kenapa sampai telat parah kesalahannya di sektor mana dan perbaiki kesalahan tersebut (contoh keterlambatan seller dalam mengirimkan barang ke ekspedisi -> berikan pelatihan kepada seller agar dalam memproses barang pesanan customer bisa lebih cepat)
 * Rekomendasi intervensi tiap user persona:
+
+
 | Persona             | Masalah Utama             | Fokus Product & CX            | Action Point                                    | Success Metrics (KPI)                                 |
 | ------------------- | ------------------------- | ----------------------------- | ---------------------------------------------- | ----------------------------------------------------- |
 | **Loyal**    | Ekspektasi tinggi, kritis | Reliability & premium UX      | Faster checkout, priority support              | CSAT ≥ baseline, Complaint rate ↓, Order success rate |
